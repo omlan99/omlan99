@@ -1,35 +1,33 @@
-<img src="https://komarev.com/ghpvc/?username=omlan99&color=red"/>
+# Hi there, I'm Amlan Dey 👋
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Amlan Dey!
-### Interests ➤ **`</>`** **`>_`** **`☦︎`** **`🇲🇰`** 👨‍💻🌐⚡🚴🏋🏻‍♂️🎮❤️🚀 <br>
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with expertise in **backend development, database management, and web design**. I love building scalable web applications and solving real-world problems through code.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omlan99&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=omlan99&show_icons=true&theme=shadow_red) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omlan&theme=shadow_red&hide_border=false)
+## 🚀 About Me
+- 🔭 I’m currently working on **Personal Portfolio Project**
+- 🌱 I’m currently learning **JWT Authentication & Advanced MongoDB**
+- 💬 Ask me about **MERN Stack, Web Development, and Backend Architecture**
+- 📫 Reach me at **amlandey11@gmail.com**
+- 📍 Based in **Bangladesh**
 
-### 💻 | Tech Skills
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p align="left">
-  <a href="https://www.microsoft.com/software-download/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width="30" height="36" alt="Windows 10 Pro" /></a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="36" height="36" alt="Kali Linux" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
-<br>
+## 📌 Pinned Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=yourrepository&theme=radical)](https://github.com/yourusername/yourrepository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=anotherrepo&theme=radical)](https://github.com/yourusername/anotherrepo)
 
-[![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown%20Author&theme=dark)](https://github.com/omlan99) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
+## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omlan99&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omlan99&layout=compact&theme=radical)
 
-_**<p align="center">Made with❤️ by © omlan</p>**_
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omlan99)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https:///x.com/omlan99)
 
-<!-- FLAG: ZmxhZ3skdEB5XzByMWcxbkBsfQ== -->
+---
+### Thanks for visiting! Happy Coding! 🚀
