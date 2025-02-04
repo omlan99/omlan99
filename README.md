@@ -5,9 +5,9 @@
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with expertise in **backend development, database management, and web design**. I love building scalable web applications and solving real-world problems through code.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Personal Portfolio Project**
+- 🔭 I’m currently working on **Private Project**
 - 🌱 I’m currently learning **JWT Authentication & Advanced MongoDB**
-- 💬 Ask me about **MERN Stack, Web Development, and Backend Architecture**
+- 💬 Ask me about **MERN Stack and Web Development**
 - 📫 Reach me at **amlandey11@gmail.com**
 - 📍 Based in **Bangladesh**
 
