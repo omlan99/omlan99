@@ -36,6 +36,9 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with exp
 <a href="tel:+880-1874466166">
   <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </a>  
+<a href="tel:+8801874466166">
+  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</a>
 
 ---
 ### Thanks for visiting! Happy Coding! 🚀
