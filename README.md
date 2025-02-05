@@ -1,5 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=omlan99&color=red"/>
 
+![Banner](https://i.ibb.co.com/ymmhV6gj/Your-paragraph-text.png)
+
+
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), there, I'm Amlan Dey,</div>
 ## <div align="center">a web developer</div>
 
