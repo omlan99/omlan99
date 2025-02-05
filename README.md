@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=omlan99&color=red"/>
 
-# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), there, I'm Amlan</div>
+# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), there, I'm Amlan Dey,<br>   Web Developer</div>
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with expertise in **backend development, database management, and web design**. I love building scalable web applications and solving real-world problems through code.
 
