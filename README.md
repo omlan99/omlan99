@@ -33,6 +33,9 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with exp
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omlan99)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https:///x.com/omlan99)
+<a href="tel:+8801874466166">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</a>  
 
 ---
 ### Thanks for visiting! Happy Coding! 🚀
