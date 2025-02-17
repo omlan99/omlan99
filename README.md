@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with expertise 
 
 
 ## 📌 Pinned Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=Lingo-Bingo&theme=radical)](https://github.com/omlan99/Lingo-Bingo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=Visa_Navigator_Client&theme=radical)](https://github.com/omlan99/Visa_Navigator_Client)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=BookNest&theme=radical)](https://github.com/omlan99/BookNest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=Visa_Navigator_Client&theme=radical)](https://github.com/omlan99/Visa_Navigator_Client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omlan99&repo=Lingo-Bingo&theme=radical)](https://github.com/omlan99/Lingo-Bingo)
 
 
 ## 📊 GitHub Stats
