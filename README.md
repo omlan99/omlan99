@@ -3,7 +3,7 @@
 ![Banner](https://i.ibb.co.com/ymmhV6gj/Your-paragraph-text.png)
 
 
-# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), there, I'm Amlan Dey,</div>
+# <div align="center">![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Amlan Dey,</div>
 ## <div align="center">a web developer</div>
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** with expertise in **backend development, database management, and web design**. I love building scalable web applications and solving real-world problems through code.
